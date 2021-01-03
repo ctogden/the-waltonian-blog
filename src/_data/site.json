@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "showThemeCredit": false,
+  "name": "The Waltonian",
+  "shortDesc": "The Waltonian is a newsletter & blog celebrating community in Walton, NY.",
+  "url": "https://thewaltonian.com",
+  "authorEmail": "ogdenchris@gmail.com",
+  "authorHandle": "",
+  "authorName": "Chris Ogden",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "paymentPointer": "None",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 10
 }
