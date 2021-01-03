@@ -1,9 +1,8 @@
 {
   "items": [
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "Contact Us",
+      "url": "/contact/index.html"
     }
   ]
 }
