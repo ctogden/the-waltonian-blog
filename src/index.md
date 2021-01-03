@@ -9,4 +9,4 @@ socialImage: ""
 ---
 The Waltonian is a newsletter & blog about Walton. We share upcoming events and other news about our community.
 
-Be sure to sign up for our [newsletter](https://thewaltonian.substack.com/) to keep informed about what's happening in our town.
+Be sure to sign up for our [newsletter](https://thewaltonian.substack.com/) to stay informed about what's happening in our town.
